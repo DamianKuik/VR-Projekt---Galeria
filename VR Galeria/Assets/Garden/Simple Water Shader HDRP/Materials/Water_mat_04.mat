@@ -275,7 +275,7 @@ Material:
     - _Metallic: 0
     - _MetallicRemapMax: 1
     - _MetallicRemapMin: 0
-    - _Mettalic: 1
+    - _Mettalic: 0
     - _NormalMapSpace: 0
     - _NormalMapWavesSpeed: 0.2
     - _NormalMapsWavesSize: 5
@@ -339,8 +339,8 @@ Material:
     - _UVEmissive: 0
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
-    - _WaveAmplitude: 0.3
-    - _WaveSpeed: 0.5
+    - _WaveAmplitude: 0.555
+    - _WaveSpeed: 0.669
     - _WaveTile: 0.5
     - _WorkflowMode: 1
     - _ZTestDepthEqualForOpaque: 4
@@ -355,7 +355,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DeepColor: {r: 0.25882357, g: 0.55018187, b: 0.6039216, a: 0}
+    - _DeepColor: {r: 0.19668922, g: 0.49879992, b: 0.6415094, a: 0}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
