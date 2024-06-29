@@ -12,10 +12,13 @@ Library: E:\Grafika\Projekty\VR-Projekt---Galeria\VR Galeria\Temp\BurstOutput\te
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=Nanolod;
+--assembly-defines=Nanomesh;
 --assembly-defines=System.Configuration;
 --assembly-defines=System.Core;
 --assembly-defines=System;
 --assembly-defines=System.Xml;
+--assembly-defines=Test;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.Burst.Unsafe;
 --assembly-defines=Unity.InputSystem;
@@ -25,6 +28,7 @@ Library: E:\Grafika\Projekty\VR-Projekt---Galeria\VR Galeria\Temp\BurstOutput\te
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.TextMeshPro;
+--assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.XR.Interaction.Toolkit;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator;
@@ -58,10 +62,13 @@ Library: E:\Grafika\Projekty\VR-Projekt---Galeria\VR Galeria\Temp\BurstOutput\te
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=Nanolod;
+--assembly-defines=Nanomesh;
 --assembly-defines=System.Configuration;
 --assembly-defines=System.Core;
 --assembly-defines=System;
 --assembly-defines=System.Xml;
+--assembly-defines=Test;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.Burst.Unsafe;
 --assembly-defines=Unity.InputSystem;
@@ -71,6 +78,7 @@ Library: E:\Grafika\Projekty\VR-Projekt---Galeria\VR Galeria\Temp\BurstOutput\te
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.TextMeshPro;
+--assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.XR.Interaction.Toolkit;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator;

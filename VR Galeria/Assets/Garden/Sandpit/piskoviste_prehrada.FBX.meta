@@ -30,7 +30,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - nanolod_0,601_0,25_0,05
     clipAnimations: []
     isReadable: 0
   meshes:
