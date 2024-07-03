@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4813510554116988522}
   - component: {fileID: 2849121359578936055}
   - component: {fileID: 6159539578783698839}
-  - component: {fileID: 5352476339506019050}
+  - component: {fileID: 3930251160247075548}
   - component: {fileID: 5269872491045275544}
   m_Layer: 0
   m_Name: TeleportHappy
@@ -85,7 +85,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &5352476339506019050
+--- !u!114 &3930251160247075548
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -94,10 +94,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5687111970970168855}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d59dff635084ed045b58da148fc91638, type: 3}
+  m_Script: {fileID: 11500000, guid: 5a9a04ba6149f8c4abd2422c4afd5979, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: {fileID: 102900000, guid: 8075447c57b114e429dd7952c25e2569, type: 3}
+  SceneName: 02_Garden_Happy
 --- !u!65 &5269872491045275544
 BoxCollider:
   m_ObjectHideFlags: 0
