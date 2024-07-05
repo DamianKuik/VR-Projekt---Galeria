@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/00_Start Scene.unity
+    path: Assets/Scenes_Main/00_Start Scene.unity
     guid: d88472d5769f23d45942dc4cc2f10451
   - enabled: 1
-    path: Assets/Scenes/01_Gallery.unity
+    path: Assets/Scenes_Main/01_Gallery.unity
     guid: 07ce5f66309a32647bdfd200642baf28
   - enabled: 1
-    path: Assets/Scenes/02_Garden_Happy.unity
+    path: Assets/Scenes_Main/02_Garden_Happy.unity
     guid: 8075447c57b114e429dd7952c25e2569
   - enabled: 1
-    path: Assets/Scenes/03_Garden_Sad.unity
+    path: Assets/Scenes_Main/03_Garden_Sad.unity
     guid: 23615de2f061d844fbcaaf05bdb68190
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 818299fe33b356647896da63e1659327, type: 2}
